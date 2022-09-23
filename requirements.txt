@@ -55,7 +55,7 @@ parse-type==0.6.0
 pathspec==0.10.1
 pbr==5.10.0
 pluggy==1.0.0
-protobuf==3.20.1
+protobuf==3.20.2
 protoc-gen-swagger==0.1.0
 py==1.11.0
 pyarrow==6.0.1
